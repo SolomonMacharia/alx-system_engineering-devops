@@ -7,3 +7,4 @@
 4. A script that lists environment variables.
 A script that lists all local variables and environment variables, and functions.
 6. A script that creates a local variable
+7. A script that creates a global variable

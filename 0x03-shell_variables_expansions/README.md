@@ -9,3 +9,4 @@ A script that lists all local variables and environment variables, and functions
 6. A script that creates a local variable
 7. A script that creates a global variable
 8. A script that prints the result of the addition of 128 with the value stored in the environment variable
+script that prints the result of POWER divided by DIVIDE, followed by a new line.

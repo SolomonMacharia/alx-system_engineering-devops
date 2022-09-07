@@ -5,3 +5,6 @@
 4. 4-lastlines, A script that prints out the last four lines of a file
 5. 5-firstlines, A script that prints out the first ten lines of a file
 6. 6-third_line, displays the thierd line
+7. 7-file , creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+
+

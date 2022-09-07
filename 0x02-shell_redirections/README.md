@@ -31,3 +31,6 @@ Words should be sorted
 14. 4-findthatword,Display lines containing the pattern “root” from the file /etc/passwd
 
 
+16. 16-whatsnext Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+
+
